@@ -1,4 +1,8 @@
 body {
+    margin: 0;
+    background-image: url("/image/minhas_web_back.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
     .navbar {
         overflow: hidden;
         background-color: gold;
