@@ -1,7 +1,6 @@
 body {
     margin: 0;
-    background-image: url(image/Sonia_Minhas);
-    background-image: url("/image/Sonia_Minhas.jpg");
+    background-image: url("/image/minhas_web_back_1.png");
     background-repeat: repeat;
     background-attachment: fixed;
     .navbar {
