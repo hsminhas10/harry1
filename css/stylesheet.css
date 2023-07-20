@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-image: url(image/Sonia_Minhas);
     background-image: url("/image/Sonia_Minhas.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
